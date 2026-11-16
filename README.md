@@ -1,2 +1,4 @@
 # web-development-portfolio
-Websites and web projects, including personal projects and works from my training/learning programmes.
+
+
+A collection of my web development work, organised into personal projects (things I built on my own) and training projects (work completed as part of courses and programmes).
